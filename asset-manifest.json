@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kekew/static/css/main.6a81d434.css",
+    "main.js": "/kekew/static/js/main.2672f47b.js",
+    "static/js/995.60e841ff.chunk.js": "/kekew/static/js/995.60e841ff.chunk.js",
+    "static/media/bdayaudo.mp3": "/kekew/static/media/bdayaudo.3e0c7eec94df84220422.mp3",
+    "static/media/birthdaytext.png": "/kekew/static/media/birthdaytext.421faba1c1820b42bf72.png",
+    "static/media/kekew.jpg": "/kekew/static/media/kekew.1d30a535a617df50c826.jpg",
+    "index.html": "/kekew/index.html",
+    "main.6a81d434.css.map": "/kekew/static/css/main.6a81d434.css.map",
+    "main.2672f47b.js.map": "/kekew/static/js/main.2672f47b.js.map",
+    "995.60e841ff.chunk.js.map": "/kekew/static/js/995.60e841ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a81d434.css",
+    "static/js/main.2672f47b.js"
+  ]
+}
